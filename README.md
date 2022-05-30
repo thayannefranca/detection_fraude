@@ -1,6 +1,6 @@
 # Detection Fraude
 
-** Instalações
+## Instalações
 * scikit-learn >= 0.20 
 * Imbalanced-learn
 * pandas-profiling
